@@ -29,7 +29,7 @@ shinyUI(fluidPage(
       verbatimTextOutput("oid3"),
       h2("Source Code"),
       p("The source code is located in the following gibhub repository:"),
-      a("https://github.com／anyuanay", href = "https://github.com/anyuanay")
+      a("https://github.com/anyuanay/DevDataProd_Proj", href = "https://github.com/anyuanay/DevDataProd_Proj")
     )
   )
 ))
